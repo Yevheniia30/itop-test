@@ -1,5 +1,3 @@
 # Stopwatch App
 
-## Technologies
-
-ReactJS, RxJs
+## ReactJS, RxJs
