@@ -1,8 +1,8 @@
 {
-  "name": "react-template",
+  "name": "stopwatch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Yevheniia30.github.io/react-template",
+  "homepage": "https://Yevheniia30.github.io/itop-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
